@@ -1,4 +1,4 @@
-package Page;
+package page;
 
 import static helper.Utility.driver;
 import static org.junit.Assert.assertTrue;
